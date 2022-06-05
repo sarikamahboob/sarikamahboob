@@ -7,13 +7,16 @@
 
 - 🌱 I’m currently learning **React Js, React Native**
 
-- 💬 Ask me about **React Js**
+- 👨‍💻 All of my projects are available at **https://github.com/sarikamahboob**
+
+- 💬 Ask me about **React Js, HTML5, CSS3, Bootstrap, Tailwind**
+
+- 📫 How to reach me **sarika.mahboob1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarika mahboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarika mahboob" height="30" width="40" /></a>
-<a href="https://fb.com/sarika mahboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarika mahboob" height="30" width="40" /></a>
-<a href="https://instagram.com/sarika mahboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarika mahboob" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarika-mahboob-744a9a153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarika mahboob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sarikamahboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarika mahboob" height="30" width="40" /></a>
 <a href="https://discord.gg/Sarika#3372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sarika#3372" height="30" width="40" /></a>
 </p>
 
