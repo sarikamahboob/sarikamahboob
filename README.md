@@ -1,15 +1,15 @@
 <h1 align="center">Assalamualaikum, I'm Sarika Mahboob 😇</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Engineer (Front-End)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarikamahboob&label=Profile%20views&color=0e75b6&style=flat" alt="sarikamahboob" /> </p>
 
-- 🔭 I’m currently working **as a Front End Developer**
+- 🔭 I’m currently working **as a Software Engineer Front-End**
 
-- 🌱 I’m currently learning **React Js, React Native**
+- 🌱 I’m currently learning **Next Js, TypeScript, Redux**
 
 - 👨‍💻 All of my projects are available at **https://github.com/sarikamahboob**
 
-- 💬 Ask me about **React Js, HTML5, CSS3, Bootstrap, Tailwind**
+- 💬 Ask me about **React Js, Next Js, Redux, HTML5, CSS3, Bootstrap, Tailwind**
 
 - 📫 How to reach me **sarika.mahboob1234@gmail.com**
 
